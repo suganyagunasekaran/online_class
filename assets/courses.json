@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "instructor": "John Smith",
+    "progress": 65,
+    "lessons": [
+      {"id": 1, "title": "Introduction", "isCompleted": true},
+      {"id": 2, "title": "Variables & Data Types", "isCompleted": true},
+      {"id": 3, "title": "Functions", "isCompleted": false},
+      {"id": 4, "title": "OOP", "isCompleted": false}
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Generative AI",
+    "instructor": "Sarah Williams",
+    "progress": 40,
+    "lessons": [
+      {"id": 1, "title": "Introduction to AI", "isCompleted": true},
+      {"id": 2, "title": "Prompt Engineering", "isCompleted": false},
+      {"id": 3, "title": "AI Applications", "isCompleted": false}
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Development",
+    "instructor": "David Brown",
+    "progress": 25,
+    "lessons": [
+      {"id": 1, "title": "HTML & CSS", "isCompleted": true},
+      {"id": 2, "title": "JavaScript", "isCompleted": false},
+      {"id": 3, "title": "Backend Development", "isCompleted": false},
+      {"id": 4, "title": "Database Basics", "isCompleted": false}
+    ]
+  }
+]
